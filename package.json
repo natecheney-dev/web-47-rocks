@@ -1,0 +1,23 @@
+{
+  "name": "web47rocks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "server": "nodemon"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "gitignore": "^0.7.0",
+    "node": "^17.0.1"
+  },
+  "devDependencies": {
+    "eslint": "^8.1.0",
+    "eslint-plugin-react": "^7.26.1"
+  }
+}
